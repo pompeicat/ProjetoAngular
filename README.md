@@ -1,4 +1,4 @@
 # Projeto Angular
 -Projeto da disciplina angular
 +
-+Comite Inicial do projeto
++Comite Inicial do projeto- new
